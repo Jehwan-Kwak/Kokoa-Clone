@@ -44,3 +44,7 @@ table {
 input:focus {
 	outline: none;
 }
+a {
+	color: #2d363e;
+	text-decoration: none;
+}
