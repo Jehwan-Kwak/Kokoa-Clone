@@ -3,11 +3,15 @@
     display: block;
     background-color: #fafafa;
     padding:15px 0px;
-    font-size: 16px;
+    font-size: 18px;
+    margin-bottom: 10px;
     }
 #friends-dysplay-link i {
     color: rgba(0, 0, 0, 0.3);
 }
 #friends-dysplay-link span {
     margin: 0px 3px;
+}
+.friends-screen{
+    padding: 0px var(--horizontal-space);
 }
