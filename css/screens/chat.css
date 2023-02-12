@@ -20,7 +20,7 @@
 
 @keyframes fadeIn {
     from {
-        transform: translateY(30px);
+        transform: translateY(20px);
         opacity: 0;
     }
     to {
@@ -77,7 +77,7 @@
     font-size: 14px;   
 }
 .message-row--own {
-        justify-content: flex-end; 
+    justify-content: flex-end; 
 }
 .message-row--own .message__bubble {
     background-color: var(--yellow);
@@ -157,7 +157,7 @@
 }
 .reply:focus-within input {
     width: 98vw;
-    transform: translateX(-13%) translateY(-80px);
+    transform: translateX(-14%) translateY(-80px);
 }
 
 .reply:focus-within {

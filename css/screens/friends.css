@@ -1,4 +1,4 @@
-#friends-dysplay-link {
+#friends-display-link {
     text-align: center;
     display: block;
     background-color: #fafafa;
@@ -7,10 +7,10 @@
     margin-bottom: 10px;
     margin-top: -15px;
     }
-#friends-dysplay-link i {
+#friends-display-link i {
     color: rgba(0, 0, 0, 0.3);
 }
-#friends-dysplay-link span {
+#friends-display-link span {
     margin: 0px 3px;
 }
 .friends-screen{
@@ -49,5 +49,5 @@
     align-items: center;
     font-size: 122px;
     animation: hideSplashScreen 0.3s ease-in-out forwards;
-    animation-delay: 2s;
+    animation-delay: 0.3s;
 }
